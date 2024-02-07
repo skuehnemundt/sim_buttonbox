@@ -8,13 +8,13 @@ Icons on the box were printed with a label printer and its iconset.
 
 ## used hardware
 
-  [ ] Ardunio Lenoardo or compatible\ 
+  [ ] Ardunio Lenoardo or compatible\
   [ ] 4wire ignition lock (from some bike)\
   [ ] push button with LED (text engine start)\
   [ ] 16mm push buttons in different colors\
   [ ] wooden box\
   [ ] carbon-based adhesive foil\
-  [ ] cable for connecting stuff
+  [ ] cable for connecting stuff\
   [ ] some drill and/or hole saw for the buttons and switch
 
 ## wiring
